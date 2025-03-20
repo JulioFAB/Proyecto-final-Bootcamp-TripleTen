@@ -1,5 +1,6 @@
 # Evaluación de Calidad para Aplicaciones de Entrega: Web y Móvil  
 Fecha de elaboración 12/2024 
+
 El propósito del proyecto era probar la funcionalidad y el diseño una aplicación web y móvil de un servicio de entrega. 
 
 - Diseñé una lista de comprobación basada en los requisitos de funcionamiento de una página web de entregas.
