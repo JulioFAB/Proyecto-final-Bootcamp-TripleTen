@@ -1,8 +1,24 @@
-# Proyecto final bootcamp  
-En el siguiente link podrás ver el proyecto final de mi bootcamp de Tripleten. Este proyecto inlcuye:
- - Una lista de comprobacion de funcionamiento y diseño de una pagina web.
- - Una lista de validacion de datos. Utilizando valores limites validé las entradas de una pagina de solicitud de pedido de una aplicacion web
- - Casos de prueba para una aplicaicon movil en la cual revisé el funcionamiento de notificaciones.
- - Una lista de comprobacion para las API en la que probé validacion de datos, guardado y eliminado de usuario en la base de datos.
+# Evaluación de Calidad para Aplicaciones de Entrega: Web y Móvil  
+Fecha de elaboración 12/2024 
+El propósito del proyecto era probar la funcionalidad y el diseño una aplicación web y móvil de un servicio de entrega. 
 
+- Diseñé una lista de comprobación basada en los requisitos de funcionamiento de una página web de entregas.
+- Creé casos de prueba para validar campos de entrada de la página web y funciones específicas de una aplicación móvil. 
+- Realicé pruebas con valores límites en campos de entrada en la página Web. 
+- Desarrollé y ejecuté  una lista de comprobación para probar la API  de la página web. Probé la validación datos, guardado y eliminado de usuarios en la base de datos.
+- Logré encontrar varios bugs en funcionamiento y diseño de las aplicaciones.
+- Creé los reportes correspondientes a todos los bugs encontrados. 
+
+
+Habilidades utilizadas: 
+-Jira 
+-Postman 
+-JSON
+
+Puedes ver el proyecto en el siguiente enlace
 https://docs.google.com/spreadsheets/d/1sGd6HMyB7uAlxAaMjSpOCMq7RdUnWJul/edit?usp=sharing&ouid=114033317080877922515&rtpof=true&sd=true
+
+
+
+
+                                     
