@@ -12,9 +12,9 @@ El propósito del proyecto era probar la funcionalidad y el diseño una aplicaci
 
 
 Habilidades utilizadas: 
--Jira 
--Postman 
--JSON
+ -Jira 
+ -Postman 
+ -JSON
 
 Puedes ver el proyecto en el siguiente enlace
 https://docs.google.com/spreadsheets/d/1sGd6HMyB7uAlxAaMjSpOCMq7RdUnWJul/edit?usp=sharing&ouid=114033317080877922515&rtpof=true&sd=true
