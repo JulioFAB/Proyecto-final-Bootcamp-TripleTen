@@ -10,11 +10,10 @@ El propósito del proyecto era probar la funcionalidad y el diseño una aplicaci
 - Logré encontrar varios bugs en funcionamiento y diseño de las aplicaciones.
 - Creé los reportes correspondientes a todos los bugs encontrados. 
 
-
 Habilidades utilizadas: 
- -Jira 
- -Postman 
- -JSON
+ - Jira 
+ - Postman 
+ - JSON
 
 Puedes ver el proyecto en el siguiente enlace
 https://docs.google.com/spreadsheets/d/1sGd6HMyB7uAlxAaMjSpOCMq7RdUnWJul/edit?usp=sharing&ouid=114033317080877922515&rtpof=true&sd=true
